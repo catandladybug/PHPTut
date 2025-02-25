@@ -1,2 +1,2 @@
 # PHPTut
-Video Demo: https://youtu.be/rarHbw7TsUI
+Video Demo: https://www.youtube.com/watch?v=M2uHNuM_ZT8
